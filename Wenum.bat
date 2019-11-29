@@ -152,8 +152,6 @@ powershell "Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\Curren
 rem---------------------------------end of script----------------------
 
 
-rem--- hidden the folder
-
 
 
 
